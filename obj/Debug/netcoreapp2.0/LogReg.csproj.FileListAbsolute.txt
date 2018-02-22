@@ -1,0 +1,10 @@
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/bin/Debug/netcoreapp2.0/LogReg.deps.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/bin/Debug/netcoreapp2.0/LogReg.runtimeconfig.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/bin/Debug/netcoreapp2.0/LogReg.runtimeconfig.dev.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/bin/Debug/netcoreapp2.0/LogReg.dll
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/bin/Debug/netcoreapp2.0/LogReg.pdb
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/obj/Debug/netcoreapp2.0/LogReg.csproj.CoreCompileInputs.cache
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/obj/Debug/netcoreapp2.0/LogReg.AssemblyInfoInputs.cache
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/obj/Debug/netcoreapp2.0/LogReg.AssemblyInfo.cs
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/obj/Debug/netcoreapp2.0/LogReg.dll
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/LogReg/obj/Debug/netcoreapp2.0/LogReg.pdb

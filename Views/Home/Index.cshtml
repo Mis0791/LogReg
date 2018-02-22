@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Registration</title>
+</head>
+<body>
+    <h3>Registration</h3>
+    <br>
+        <ul>
+        @{
+            foreach(var error in ViewBag.errors)
+            {
+                if (error.Errors.Count > 0)
+                {
+                    <li>@error.Errors[0].ErrorMessage</li>
+                }
+            }
+        }
+    </ul>
+    <br>
+    <div>
+        <form action="register" method="POST">
+            First Name: <input type="text" name="FirstName"/><br>
+            <br>
+            Last Name: <input type="text" name="LastName"/><br>
+            <br>
+            Email: <input type="email" name="Email"/><br>
+            <br>
+            Password: <input type="password" name="Password"/><br>
+            <br>
+            Confirm Password: <input type="password" name="passconf"/><br>
+            <br>
+            <input type="submit" value"Submit"/>
+        </form>  
+    </div>
+    <br>
+    <h3>Login</h3>
+    <br>
+    <div>
+        <form action="login" method="POST">
+            Email: <input type="email" name="Email"/><br>
+            <p>@ViewBag.usererror</p>
+            <br>
+            Password: <input type="password" name="Password"/><br>
+            <p>@ViewBag.Password</p>
+            <br>
+            <input type="submit" value"Submit"/>
+        </form>  
+    </div>
+</body>
+</html>
+
